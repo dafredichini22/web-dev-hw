@@ -1,0 +1,26 @@
+Frederick Cantarine
+
+Responses:
+Briefly describe one way how data travels on the internet.
+1. Information on the internet goes from one computer to another in a packet of
+information. A packet does not necessarily take the shortest route but instead
+has to consider what route will take it the least amount of time. If a package
+of information is too big, then breaking it up into different packets is one way
+in which it can insure all it's parts will end up where they need to go. These
+different packets may not all take the same route but all go towards the same
+destination. Each packet has the internet address of where it came from and
+where it is going.
+
+What is the relationship between an IP address and the DNS?
+2.  The DNS associates names, like www.example.com, with the corresponding
+IP addresses, like 174.129.14.120. It helps our computers navigate where to go
+when trying to go to a specific location.
+
+What is a cookie?
+3. A cookie is what websites use to remember who you are. Basically an ID card.
+
+List the three basic parts of a URL.
+4. Protocol - tells the web browser how it should communicate with a web server
+   when sending or fetching a web page or document.
+   Domain name - a unique reference that identifies a web site on the internet.
+   Path - refers to a file or directory on the web server.
