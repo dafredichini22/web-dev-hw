@@ -7,5 +7,5 @@ The difference between structural and semantic markup is that structural markup 
 
 My work cycle for this assignment was going through the class webpage material, finishing my assesments of the two assigned classmates' Project 1s and finally finishing assignment 3. The only problem I encountered while doing assignemnt three was linking my contact to the index and vise versa. Part of the problem was that I copied and pasted the example code from the class website and it was missing an equal sign which didn't allow the link to work. But I eventually got both links to work. I still haven't gotten around to finishing assignment 2, so hopefully I will have time in the next few days. Things have been just really busy. I did not post or check any issues on the issue repo. Only thing if I had time to ask about would be how to allign a picture I placed on the right side of the screen rather than at the bottom. But I'll probably figure that out later.
 
-<img src="./assignment3_screenshot.jpg" >
+
 ![Screenshot](assignment3_screenshot.png)
