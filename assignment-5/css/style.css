@@ -1,0 +1,85 @@
+body {
+  background-color: rgba(112, 86, 0, 1);
+
+  /*Going with brown background because it looks good with the other colors*/
+  padding: 10;
+  text-align: center;
+  font-style: bold;
+  font-size: 100;
+  color: #F4C118;
+}
+.bigsquare{
+  color: #705600;
+  width: 0%;
+  height: 0px;
+}
+.square{
+  width: 35%;
+  height: 35%;
+}
+
+#design1 {
+  font-style: normal;
+  text-align: left;
+  font-size: 25;
+  position: absolute;
+  bottom: 92%;
+  left: 37%;
+}
+#design2 {
+  font-style: normal;
+  text-align: left;
+  font-size: 25;
+  position: absolute;
+  top: 47%;
+  left: 10%;
+}
+#design3 {
+  font-style: normal;
+  text-align: left;
+  font-size: 25;
+  position: absolute;
+  top: 47%;
+  left: 75%;
+}
+
+#box1 {
+  background-color: #8AA216;
+  font-style: normal;
+  text-align: center;
+  font-size: 100;
+  color: #F4C118;
+  position: absolute;
+  top: 80px;
+  left: 0;
+}
+#box2 {
+  background-color: #47A4A7;
+  font-style: normal;
+  text-align: center;
+  font-size: 100;
+  color: #F4C118;
+  position: absolute;
+  top: 80px;
+  right: 0;
+}
+#box3 {
+  background-color: #E69408;
+  font-style: normal;
+  text-align: center;
+  font-size: 25;
+  color: #F4C118;
+  position: absolute;
+  bottom: -80px;
+  left: 0;
+}
+#box4 {
+  background-color: #BE4613;
+  font-style: normal;
+  text-align: center;
+  font-size: 25;
+  color: #F4C118;
+  position: absolute;
+  bottom: -80px;
+  right: 0;
+}
