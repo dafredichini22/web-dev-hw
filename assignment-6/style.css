@@ -1,0 +1,36 @@
+body {
+  background-color: rgba(112, 86, 0, 1);
+  padding: 10;
+}
+
+.container{
+  color: white;
+  width:75%;
+  height: 75%;
+  font-size: 25;
+}
+
+#excerpt{
+  font-style: normal;
+
+}
+
+#title{
+  text-align: center;
+}
+
+#chapter{
+  text-align: center;
+}
+
+#paragraph{
+  text-align: left;
+}
+
+#button{
+  font-size: 25;
+  color: black;
+  font-weight: 400;
+  background-color: red;
+  border-color: black;
+}
